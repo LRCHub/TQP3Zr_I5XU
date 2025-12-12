@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "トゥール",
+  "base_artist": "MARETU",
+  "createdAt": "2025-12-12T00:14:18.070957Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "トゥール",
+      "artist": "MARETU",
+      "has_synced": false,
+      "path": "select/pl_01_トゥール_MARETU.txt"
+    }
+  ]
+}
