@@ -1,0 +1,39 @@
+# MARETU – トゥール
+
+> **歌詞登録ステータス：プレーン歌詞のみ**
+
+```
+T TO TOOL LOOT
+TWO T トゥ T TRUE
+TO TOOL T
+TO TOOL TOOOOL
+TWO T トゥ T TRUE
+T T T
+T TO TOOL？
+TWO T トゥ T TRUE
+T TOOOOOOL
+T T TOOL LOL とぅ T
+TWO T TRUE
+Here comes the pain
+T TO TOOL LOOT
+TWO T トゥ T TRUE
+TO TOOL
+T TO TOOL 透 TWO
+T トゥ T TRUE
+T T T
+T TO TRY LOOT
+TWO T トゥ T TRUE
+TO TOOL
+T TO 吊 THOR
+TWO T トゥ T TRUE
+HERE COMES THE PAIN
+トゥトゥトゥル トゥルトゥトゥ
+トゥトゥトゥル
+トゥトゥル トゥトゥトゥル
+トゥルトゥトゥ トゥトゥトゥル
+トゥトゥトゥ トゥトゥトゥル
+トゥルトゥトゥ トゥトゥトゥル
+トゥ外ゥル トゥトゥトゥル
+トゥルトゥトゥ トゥトゥトゥル
+トゥトゥトゥ
+```
